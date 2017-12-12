@@ -2,7 +2,6 @@
 *.bak
 *.old
 *~
-config.inc.php
 skins/*
 !skins/default
 !skins/larry
